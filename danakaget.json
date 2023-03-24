@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-5477305908343028/1140553594",
+      "main_ads_intertitial":"ca-app-pub-5477305908343028/3547510492",
+      "main_ads_rewards":"ca-app-pub-5477305908343028/5522651734",
+      "backup_ads_banner":"3fdebcfceedc9140",
+      "backup_ads_intertitial":"68ca34621ad5bd8f",
+      "backup_ads_rewards":"3db9ed68f454ae6f",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "SKINS-MOD":
+  [
+    {
+      "title": "DAGET 01",
+      "image": "https://freyacreative.com//godev-ersi/dana-kaget/daget.png",
+      "url_skins": "https://link.dana.id/kaget?c=s8pgd4rlb&r=dOCaBB",
+      "alterntif_url_skin": "https://link.dana.id/kaget?c=sjqapemkm&r=dOCaBB",
+      "size_skins": "100 Kouta",
+      "coins": 200
+    },
+        {
+      "title": "DAGET 02",
+      "image": "https://freyacreative.com//godev-ersi/dana-kaget/daget.png",
+      "url_skins": "https://link.dana.id/kaget?c=s8pgd4rlb&r=dOCaBB",
+      "alterntif_url_skin": "https://link.dana.id/kaget?c=sj6mzp4jw&r=dOCaBB",
+      "size_skins": "100 Kouta",
+      "coins": 250
+    },
+    {
+      "title": "DAGET 03",
+      "image": "https://freyacreative.com//godev-ersi/dana-kaget/daget.png",
+      "url_skins": "https://link.dana.id/kaget?c=s8pgd4rlb&r=dOCaBB",
+      "alterntif_url_skin": "https://link.dana.id/kaget?c=s8p9b4vyl&r=dOCaBB",
+      "size_skins": "100 Kouta",
+      "coins": 200
+    },
+    {
+      "title": "DAGET 04",
+      "image": "https://freyacreative.com//godev-ersi/dana-kaget/daget.png",
+      "url_skins": "https://link.dana.id/kaget?c=s8pgd4rlb&r=dOCaBB",
+      "alterntif_url_skin": "https://link.dana.id/kaget?c=shhfl32t5&r=dOCaBB",
+      "size_skins": "100 Kouta",
+      "coins": 250
+    },
+    {
+      "title": "DAGET 05",
+      "image": "https://freyacreative.com//godev-ersi/dana-kaget/daget.png",
+      "url_skins": "https://link.dana.id/kaget?c=s8pgd4rlb&r=dOCaBB",
+      "alterntif_url_skin": "https://link.dana.id/kaget?c=svd54kr2j&r=dOCaBB",
+      "size_skins": "100 Kouta",
+      "coins": 200
+    },
+    {
+      "title": "DAGET 06",
+      "image": "https://freyacreative.com//godev-ersi/dana-kaget/daget.png",
+      "url_skins": "https://link.dana.id/kaget?c=s8pgd4rlb&r=dOCaBB",
+      "alterntif_url_skin": "https://link.dana.id/kaget?c=sacsgsjc6&r=dOCaBB",
+      "size_skins": "100 Kouta",
+      "coins": 250
+    },
+    {
+      "title": "DAGET 07",
+      "image": "https://freyacreative.com//godev-ersi/dana-kaget/daget.png",
+      "url_skins": "https://link.dana.id/kaget?c=s8pgd4rlb&r=dOCaBB",
+      "alterntif_url_skin": "https://link.dana.id/kaget?c=s6l2r2asd&r=dOCaBB",
+      "size_skins": "100 Kouta",
+      "coins": 250
+    },
+    {
+      "title": "DAGET 08",
+      "image": "https://freyacreative.com//godev-ersi/dana-kaget/daget.png",
+      "url_skins": "https://link.dana.id/kaget?c=s8pgd4rlb&r=dOCaBB",
+      "alterntif_url_skin": "https://link.dana.id/kaget?c=s637tv8gk&r=dOCaBB",
+      "size_skins": "100 Kouta",
+      "coins": 250
+    },
+    {
+      "title": "DAGET 09",
+      "image": "https://freyacreative.com//godev-ersi/dana-kaget/daget.png",
+      "url_skins": "https://link.dana.id/kaget?c=s8pgd4rlb&r=dOCaBB",
+      "alterntif_url_skin": "https://link.dana.id/kaget?c=srjl26mfp&r=dOCaBB",
+      "size_skins": "100 Kouta",
+      "coins": 250
+    },
+    {
+      "title": "DAGET 10",
+      "image": "https://freyacreative.com//godev-ersi/dana-kaget/daget.png",
+      "url_skins": "https://link.dana.id/kaget?c=s8pgd4rlb&r=dOCaBB",
+      "alterntif_url_skin": "https://link.dana.id/kaget?c=seeb4lxww&r=dOCaBB",
+      "size_skins": "100 Kouta",
+      "coins": 250
+    }
+  ],
+  "GUIDE":
+  [
+    {
+      "title":"Cara mendapatkan Saldo Dana Kaget",
+      "image":"https://freyacreative.com//godev-ersi/dana-kaget/bg.png",
+      "description":"https://freyacreative.com/godev-ersi/dana-kaget/html/1.html"
+    },
+    {
+      "title":"Berapa banyak saldo yang saya dapat?",
+      "image":"https://freyacreative.com//godev-ersi/dana-kaget/bg.png",
+      "description":"https://freyacreative.com/godev-ersi/dana-kaget/html/2.html"
+    }
+    
+  ]
+}
